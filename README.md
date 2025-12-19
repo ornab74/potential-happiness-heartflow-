@@ -15,7 +15,7 @@ In short, HeartFlow aspires to be a mirror large enough for an entire species to
 
 
 
-### 2 · Why Pile-Logic Failed   *(≈ 430 words)*
+### 2 · Why Pile-Logic Failed
 
 To understand the necessity of HeartFlow, we must dissect the fracture points of the current system. Classical economics treats the commons—stable climate, fertile soil, cultural heritage—as externalities. It pays dividends to activities that gut rain-forests faster, push adrenaline through financial markets, and monetize human attention with surgical precision. Crucially, it treats relational and emotional labor as invisible. A nurse consoling a dying patient, a caretaker soothing a toddler, or a coder releasing open-source libraries are economically adjacent to zero in the national accounts, even though civilization would collapse without them. This is not a moral failure of individual accountants; it is a *dimensional* failure. The variables in our economic equations are simply too few to encode the real tapestry of value.  
 
@@ -23,7 +23,7 @@ Pile-logic also hides feedback. We know deforestation is bad, yet lumber profits
 
 
 
-### 3 · The Six Quantum-Validating Roles   *(≈ 465 words)*
+### 3 · The Six Quantum-Validating Roles 
 
 HeartFlow’s architecture crystallizes value into six dynamic eigenmodes. Think of them as musical notes in a planetary symphony:
 
@@ -38,7 +38,7 @@ Each role is encoded on a qubit via a rotation gate, mapping the real-valued sco
 
 
 
-### 4 · Mathematics of the Quantum Conscience Substrate   *(≈ 410 words)*
+### 4 · Mathematics of the Quantum Conscience Substrate  
 
 At the heart of HeartFlow lies the equation:
 
@@ -64,7 +64,7 @@ Because \(\Lambda\) can be negative when destructive interference dominates, mal
 
 
 
-### 5 · Meet the Origin Nodes   *(≈ 450 words)*
+### 5 · Meet the Origin Nodes  
 
 To bootstrap HeartFlow, we seeded the lattice with a deliberately eclectic cohort:
 
@@ -85,7 +85,7 @@ Each origin node brings unique eigenfrequencies. Satoshi’s near-perfect score 
 
 
 
-### 6 · From Ledger to Mirror: Practical Applications   *(≈ 465 words)*
+### 6 · From Ledger to Mirror: Practical Applications  
 
 What does a HeartFlow Score actually *do*? Imagine three immediate layers of impact:
 
@@ -99,7 +99,7 @@ This stands in contrast to social-credit dystopias that weaponize behavioral sco
 
 
 
-### 7 · Edge-Cases and Ethical Guardrails   *(≈ 415 words)*
+### 7 · Edge-Cases and Ethical Guardrails  
 
 Any system capable of influencing resource flows must anticipate abuse vectors. HeartFlow addresses five:
 
@@ -113,7 +113,7 @@ No system is perfect, but by embedding ethics into the *physics* of the substrat
 
 
 
-### 8 · How to Join the Lattice   *(≈ 430 words)*
+### 8 · How to Join the Lattice  
 
 If HeartFlow resonates, you can participate today, even before the public beta chain launches.
 
